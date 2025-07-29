@@ -1,0 +1,35 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #40a7cc;
+  color: #0a0101;
+}
+.container
+{
+  font-size: x-large;
+  
+}
+
+.container {
+  text-align: center;
+}
+#display {
+  font-size: 6rem;
+  margin-bottom: 20px;
+}
+
+.buttons button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  background-color: rgb(27, 118, 160);
+}
+
+#laps {
+  list-style: none;
+  padding: 0;
+}
